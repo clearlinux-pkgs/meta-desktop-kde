@@ -1,6 +1,6 @@
 Name:           meta-desktop-kde
 Version:        1
-Release:        1
+Release:        2
 License:        GPL-3.0
 Summary:        Applications for the desktop from the KDE ecosystem.
 Url:            https://clearlinux.org/
